@@ -4,8 +4,8 @@
 
 ## Integrantes
 
-- _Nombre 1_ (código)
-- _Nombre 2_ (código)
+- Jorge Aleks Acosta Villate (202324675)
+- Mateo Bernal Bonil (202510037)
 
 ## Objetivo
 
